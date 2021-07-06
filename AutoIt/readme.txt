@@ -1,4 +1,5 @@
 -- INSTALLATION --
+
 1. Extract all files inside of the "required" folder in to MacrosEngine main folder. (C:\Program Files (x86)\MacrosEngine)
 	- It was not possible to pack these files in to the main file.
 
